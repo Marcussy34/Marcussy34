@@ -1,7 +1,13 @@
 # 👋 Hi, I'm Marcus Tan ([@Marcussy34](https://github.com/Marcussy34))
 
 💻 **About Me**  
-I’m a Fullstack Developer passionate about AI, Web3 solutions, and Cyber Security. I love exploring the intersection of cutting-edge technologies and building secure, innovative web applications.
+I’m a **Fullstack Developer** passionate about **AI**, **Web3 solutions**, and **Cyber Security**. I specialize in designing and building secure, scalable, and innovative systems that bridge cutting-edge technologies with real-world impact.  
+
+🚀 **What I bring to the table:**  
+- 🧠 Expertise in **Conversational AI**, **RAG pipelines**, and **LLM orchestration** using frameworks like **LangChain** and **FastAPI**.  
+- 🌐 Production-ready deployments on **Google Cloud Run** with **Docker** and CI/CD automation.  
+- 🔒 Strong focus on **robust security practices**, preventing vulnerabilities in APIs, data pipelines, and Web3 apps.  
+- 📊 A passion for building intelligent systems that combine **AI/ML**, **vector search (FAISS/Pinecone)**, and **secure backend architectures**.  
 
 🌐 **Connect with me**:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-tan-8846ba271/)
@@ -39,9 +45,11 @@ I’m a Fullstack Developer passionate about AI, Web3 solutions, and Cyber Secur
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ### 🐳 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Google Cloud Run](https://img.shields.io/badge/Google%20Cloud%20Run-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
@@ -59,12 +67,13 @@ I’m a Fullstack Developer passionate about AI, Web3 solutions, and Cyber Secur
 
 ## 🔭 What I’m Currently Working On
 
-- 💡 Building secure Web3 dApps and AI-integrated platforms  
-- 🛠️ Exploring advanced cyber security measures in fullstack development  
+- 💡 Developing **AI-powered chatbots** with multi-turn memory and agentic planning  
+- 🛠️ Building secure **Web3 dApps** and experimenting with **LLM-powered RAG pipelines**  
+- ☁️ Deploying scalable apps with **Docker** and **Google Cloud Run**  
 
 ---
 
-> “When building in public, transparency drives innovation.”
+> *“When building in public, transparency drives innovation.”*
 
 ---
 
