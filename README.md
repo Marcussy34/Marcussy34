@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Marcus Tan ([@Marcussy34](https://github.com/Marcussy34))
 
 💻 **About Me**  
-I’m a **Fullstack Developer** passionate about **AI**, **Web3 solutions**, and **Cyber Security**. 
+I’m a **Fullstack Developer** passionate about **AI**, **Web3 solutions**, and **Cyber Security**. I love exploring the intersection of cutting-edge technologies and building innovative web applications.
+
 
 🌐 **Connect with me**:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-tan-8846ba271/)
