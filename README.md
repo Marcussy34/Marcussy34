@@ -1,13 +1,7 @@
 # 👋 Hi, I'm Marcus Tan ([@Marcussy34](https://github.com/Marcussy34))
 
 💻 **About Me**  
-I’m a **Fullstack Developer** passionate about **AI**, **Web3 solutions**, and **Cyber Security**. I specialize in designing and building secure, scalable, and innovative systems that bridge cutting-edge technologies with real-world impact.  
-
-🚀 **What I bring to the table:**  
-- 🧠 Expertise in **Conversational AI**, **RAG pipelines**, and **LLM orchestration** using frameworks like **LangChain** and **FastAPI**.  
-- 🌐 Production-ready deployments on **Google Cloud Run** with **Docker** and CI/CD automation.  
-- 🔒 Strong focus on **robust security practices**, preventing vulnerabilities in APIs, data pipelines, and Web3 apps.  
-- 📊 A passion for building intelligent systems that combine **AI/ML**, **vector search (FAISS/Pinecone)**, and **secure backend architectures**.  
+I’m a **Fullstack Developer** passionate about **AI**, **Web3 solutions**, and **Cyber Security**. 
 
 🌐 **Connect with me**:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-tan-8846ba271/)
@@ -65,22 +59,10 @@ I’m a **Fullstack Developer** passionate about **AI**, **Web3 solutions**, and
 
 ---
 
-## 🔭 What I’m Currently Working On
-
-- 💡 Developing **AI-powered chatbots** with multi-turn memory and agentic planning  
-- 🛠️ Building secure **Web3 dApps** and experimenting with **LLM-powered RAG pipelines**  
-- ☁️ Deploying scalable apps with **Docker** and **Google Cloud Run**  
-
----
-
-> *“When building in public, transparency drives innovation.”*
-
----
-
 ## 📫 How to Reach Me
 
 - LinkedIn: [Marcus Tan](https://www.linkedin.com/in/marcus-tan-8846ba271/)  
-- GitHub: [@Marcussy34](https://github.com/Marcussy34)
+- Gmail: [Marcus](marcus.tanchiyau@gmail.com)
 
 ---
 
