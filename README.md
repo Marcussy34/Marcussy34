@@ -66,5 +66,3 @@ I’m a **Fullstack Developer** passionate about **AI**, **Web3 solutions**, and
 - Gmail: [Marcus](marcus.tanchiyau@gmail.com)
 
 ---
-
-*Generated with ❤️ for developers who care about security, AI, and decentralization.*
