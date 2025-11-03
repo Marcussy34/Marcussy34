@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Marcus Tan ([@Marcussy34](https://github.com/Marcussy34))
 
 💻 **About Me**  
-I’m a **Fullstack Developer** passionate about **AI** and **Web3*. I love exploring the intersection of cutting-edge technologies and building innovative web applications.
+I’m a **Fullstack Developer** passionate about **AI** and *Web3*. I love exploring the intersection of cutting-edge technologies and building innovative web applications.
 
 
 🌐 **Connect with me**:  
