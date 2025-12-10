@@ -42,13 +42,14 @@ I specialize in building AI applications and Decentralized Applications (dApps).
 
 ---
 
-## 📊 GitHub Stats
-
-![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcussy34&show_icons=true&theme=tokyonight&hide_border=true&v=3)
-
-![Marcus's GitHub streak](https://streak-stats.demolab.com?user=Marcussy34&theme=tokyonight&hide_border=true&v=3)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcussy34&layout=compact&theme=tokyonight&hide_border=true&v=3)
+## 📊 Stats & Languages
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcussy34&theme=2077" width="45%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Marcussy34&theme=2077" width="45%" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Marcussy34&theme=2077" width="45%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marcussy34&theme=2077" width="45%" />
+</p>
 
 ---
 
