@@ -6,15 +6,6 @@ I specialize in building AI applications and Decentralized Applications (dApps).
 
 ---
 
-## 🏆 Recent Achievements
-* 🏆 **Best Indie Hacker & Finalist** - [Cursor x Anthropic Hackathon](https://devpost.com/) (Dec 2025)
-    * *Project: Koyak Kombat (AI Roast Battle Arcade)*
-* 🥇 **1st Place Overall** - BUIDL AI 2025 Seoul (April 2025)
-    * *Project: CureMeBaby*
-* 🥇 **1st Placet** - DevQuest 2025 (Team Kwek Kwek)
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
