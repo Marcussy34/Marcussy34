@@ -44,13 +44,11 @@ I specialize in building AI applications and Decentralized Applications (dApps).
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcussy34&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Marcus's GitHub stats" width="45%" />
-  <img src="https://streak-stats.demolab.com?user=Marcussy34&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Marcus's GitHub streak" width="45%" />
-</p>
+![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcussy34&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcussy34&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
+![Marcus's GitHub streak](https://streak-stats.demolab.com?user=Marcussy34&theme=tokyonight&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcussy34&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ## 📫 Connect with me
