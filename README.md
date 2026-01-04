@@ -26,9 +26,9 @@ I like building AI applications and decentralized applications.
 | **Consensus Hong Kong Hackathon 2025** | 🥉 **3rd Place (Aptos)** | [Project Name](https://github.com/...) |
 | **ETHGlobal Online Agentic Ethereum 2025** | 🥇 **1st Place (Flow – Best AI Agent for Consumers)** | [Project Name](https://github.com/...) |
 | **ETHKL Hackathon 2024** | 🏁 Finalist, 🥈 **2nd Place (ICP)**, 🏅 Winners (Pools) | [Project Name](https://github.com/...) |
-| **Devmatch 2024** | 🥈 **2nd Place (Maschain Government Services Track)** | [Project Name](https://github.com/...) |
-| **Alha Alfa Cosmetics Taylor's Competition** | 🥈 **2nd Place (AI Model)** | [Project Name](https://github.com/...) |
-| **Hilti IT Competition 2024** | 🏁 Semi-Finalist | [Project Name](https://github.com/...) |
+| **Devmatch 2024** | 🥈 **2nd Place (Maschain Government Services Track)** | [Fundify]([https://github.com/...](https://github.com/Lim-921/DevMatch)) |
+| **Alha Alfa Cosmetics Taylor's Competition** | 🥈 **2nd Place (AI Model)** | No Repo |
+| **Hilti IT Competition 2024** | 🏁 Semi-Finalist | No Repo |
 
 ---
 
