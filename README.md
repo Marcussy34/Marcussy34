@@ -22,7 +22,7 @@ I like building AI applications and decentralized applications.
 | **ImagineHack 2025** | 🏆 **Champion (Overall Winner)** | [Tea Time](https://github.com/derek2403/tt) |
 | **SuperteamMY Mega Hackathon 2025** | **🏁 Top 10 Finalist** | [LockedIn](https://github.com/Marcussy34/solana-mega) |
 | **BUIDL Asia Seoul Hackathon 2025** | 🏆 **Champion (Overall Winner)**, 🥇 **1st Place (Gensyn)**, 🥈 **2nd Place (Nethermind)** | [CureMeBaby](https://github.com/derek2403/CureMeBaby) |
-| **ETHGlobal Taipei Hackathon 2025** | 🥈 **2nd Place (1inch)**, 🏅 Winner (Celo Pool Prize) | [MemestCutestPlatform](https://github.com/derek2403/memest-cutest-platform) |
+| **ETHGlobal Taipei Hackathon 2025** | 🥈 **2nd Place (1inch), 🏅 Winner (Celo Prize Pool)** | [MemestCutestPlatform](https://github.com/derek2403/memest-cutest-platform) |
 | **Consensus Hong Kong Hackathon 2025** | 🥉 **3rd Place (Aptos)** | [Grand Theft Aptos](https://github.com/derek2403/grand-theft-aptos) |
 | **ETHGlobal Online Agentic Ethereum 2025** | 🥇 **1st Place (Flow – Best AI Agent for Consumers)** | [4AI 1Human](https://github.com/derek2403/4AI-1Human) |
 | **ETHKL Hackathon 2024** | **🏁 Top 5 Finalist, 🥈 2nd Place (ICP), 🏅 Winner (ORA Prize)** | [JustETH](https://github.com/derek2403/AI-Food-Rating-App) |
