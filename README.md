@@ -6,27 +6,29 @@ I like building AI applications and decentralized applications.
 
 ---
 
+## 🏆 Hackathon & Competition Achievements  
+
 | 📅 Event & Year | 🏅 Placement & Awards | 🔗 Project Repository |
 |----------------|----------------------|-----------------------|
-| **Cursor × Anthropic Hackathon 2025** | 🥇 **1st Place (Best Indie Hacker)**, 🏁 Finalist | — |
-| **Forte Hacks by Flow 2025** | 🥉 **3rd Place (Best Existing Codebase Integration)** | — |
-| **Moca Network Proof of Build (Wave 2 & 3)** | 🥇 **1st Place** | — |
-| **ETHOnline 2025** | 🥇 **1st Place (BlockScout – Best Use of AutoScout)** | — |
-| **Token2049 Hackathon Singapore 2025** | 🥇 **1st Place (Celo Track)**, 🏁 Top 5 Finalist | — |
-| **ETHGlobal New Delhi Hackathon 2025** | 🥇 **1st Place (Flow Track)**, 🥇 **1st Place (Hedera – Best Overall Project)** | — |
-| **ETHTokyo 2025** | 🥇 **1st Place (AI Track)**, 🏁 Finalist | — |
-| **DevQuest 2025** | 🏆 **Champion (Overall Winner)** | — |
-| **Devmatch 2025** | 🥇 **1st Place (Oasis – Best Use of Sapphire / ROFL)** | — |
-| **ImagineHack 2025** | 🏆 **Champion (Overall Winner)** | — |
-| **SuperteamMY Mega Hackathon** | 🏁 Top 10 Finalist | — |
-| **BUIDL Asia Seoul Hackathon 2025** | 🏆 **Champion (Overall Winner)**, 🥇 **1st Place (Gensyn)**, 🥈 **2nd Place (Nethermind)**, 🏅 Winner (NEAR) | — |
-| **ETHGlobal Taipei Hackathon 2025** | 🥈 **2nd Place (1inch)**, 🏅 Winner (Celo Pool Prize) | — |
-| **Consensus Hong Kong Hackathon 2025** | 🥉 **3rd Place (Aptos)** | — |
-| **ETHGlobal Agentic Ethereum 2025** | 🥇 **1st Place (Flow – Best AI Agent for Consumers)** | — |
-| **ETHKL Hackathon 2024** | 🏁 Finalist, 🥈 **2nd Place (ICP)**, 🏅 Winner (WorldCoin Pool), 🏅 Winner (Scroll Pool), 🏅 Winner (Ora Pool) | — |
-| **Devmatch 2024** | 🥈 **2nd Place (Maschain Government Services Track)** | — |
-| **Alha Alfa Cosmetics Data Analytics Competition** | 🥈 **2nd Place** | — |
-| **Hilti IT Competition** | 🏁 Semi-Finalist | — |
+| **Cursor × Anthropic Hackathon 2025** | 🥇 **1st Place (Best Indie Hacker)**, 🏁 Finalist | [Project Name](https://github.com/...) |
+| **Forte Hacks by Flow 2025** | 🥉 **3rd Place (Best Existing Codebase Integration)** | [Project Name](https://github.com/...) |
+| **Moca Network Proof of Build (Wave 2 & 3)** | 🥇 **1st Place** | [Project Name](https://github.com/...) |
+| **ETHOnline 2025** | 🥇 **1st Place (BlockScout – Best Use of AutoScout)** | [Project Name](https://github.com/...) |
+| **Token2049 Hackathon Singapore 2025** | 🥇 **1st Place (Celo Track)**, 🏁 Top 5 Finalist | [Project Name](https://github.com/...) |
+| **ETHGlobal New Delhi Hackathon 2025** | 🥇 **1st Place (Flow Track)**, 🥇 **1st Place (Hedera – Best Overall Project)** | [Project Name](https://github.com/...) |
+| **ETHTokyo 2025** | 🥇 **1st Place (AI Track)**, 🏁 Finalist | [Project Name](https://github.com/...) |
+| **DevQuest 2025** | 🏆 **Champion (Overall Winner)** | [Project Name](https://github.com/...) |
+| **Devmatch 2025** | 🥇 **1st Place (Oasis – Best Use of Sapphire / ROFL)** | [Project Name](https://github.com/...) |
+| **ImagineHack 2025** | 🏆 **Champion (Overall Winner)** | [Project Name](https://github.com/...) |
+| **SuperteamMY Mega Hackathon** | 🏁 Top 10 Finalist | [Project Name](https://github.com/...) |
+| **BUIDL Asia Seoul Hackathon 2025** | 🏆 **Champion (Overall Winner)**, 🥇 **1st Place (Gensyn)**, 🥈 **2nd Place (Nethermind)** | [Project Name](https://github.com/...) |
+| **ETHGlobal Taipei Hackathon 2025** | 🥈 **2nd Place (1inch)**, 🏅 Winner (Celo Pool Prize) | [Project Name](https://github.com/...) |
+| **Consensus Hong Kong Hackathon 2025** | 🥉 **3rd Place (Aptos)** | [Project Name](https://github.com/...) |
+| **ETHGlobal Agentic Ethereum 2025** | 🥇 **1st Place (Flow – Best AI Agent for Consumers)** | [Project Name](https://github.com/...) |
+| **ETHKL Hackathon 2024** | 🏁 Finalist, 🥈 **2nd Place (ICP)**, 🏅 Winners (Pools) | [Project Name](https://github.com/...) |
+| **Devmatch 2024** | 🥈 **2nd Place (Maschain Government Services Track)** | [Project Name](https://github.com/...) |
+| **Alha Alfa Cosmetics Data Analytics** | 🥈 **2nd Place** | [Project Name](https://github.com/...) |
+| **Hilti IT Competition** | 🏁 Semi-Finalist | [Project Name](https://github.com/...) |
 
 ---
 
