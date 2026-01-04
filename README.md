@@ -18,7 +18,7 @@ I like building AI applications and decentralized applications.
 | **ETHGlobal New Delhi Hackathon 2025** | **1st Place 🥇 (Flow), 1st Place 🥇 (Hedera – Best Overall Project)** | — |
 | **ETHTokyo 2025** | **1st Place 🥇 (AI Track Champion), Finalist 🏁** | — |
 | **DevQuest 2025** | **1st Place 🥇 (Champion)** | — |
-| **Devmatch 2025** | **1st Place 🥇 (Champion – Oasis Best Use of Sapphire / ROFL)** | — |
+| **Devmatch 2025** | **1st Place 🥇 (Oasis Best Use of Sapphire / ROFL)** | — |
 | **ImagineHack 2025** | **1st Place 🥇 (Champion)** | — |
 | **SuperteamMY Mega Hackathon** | **Top 10 Finalist 🏁** | — |
 | **BUIDL Asia Seoul Hackathon 2025** | **1st Place 🥇 (Champion), 1st Place 🥇 (Gensyn), 2nd Place 🥈 (Nethermind), Winner 🏅 (NEAR)** | — |
