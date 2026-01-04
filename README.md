@@ -27,7 +27,7 @@ I like building AI applications and decentralized applications.
 | **ETHGlobal Agentic Ethereum 2025** | 🥇 **1st Place (Flow – Best AI Agent for Consumers)** | [Project Name](https://github.com/...) |
 | **ETHKL Hackathon 2024** | 🏁 Finalist, 🥈 **2nd Place (ICP)**, 🏅 Winners (Pools) | [Project Name](https://github.com/...) |
 | **Devmatch 2024** | 🥈 **2nd Place (Maschain Government Services Track)** | [Project Name](https://github.com/...) |
-| **Alha Alfa Cosmetics Data Analytics** | 🥈 **2nd Place** | [Project Name](https://github.com/...) |
+| **Alha Alfa Cosmetics Taylor's Competition** | 🥈 **2nd Place (AI Model)** | [Project Name](https://github.com/...) |
 | **Hilti IT Competition 2024** | 🏁 Semi-Finalist | [Project Name](https://github.com/...) |
 
 ---
