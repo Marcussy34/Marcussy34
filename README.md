@@ -12,19 +12,19 @@ I like building AI applications and decentralized applications.
 |----------------|----------------------|-----------------------|
 | **Cursor × Anthropic Hackathon 2025** | 🥇 **1st Place (Best Indie Hacker)**, 🏁 Finalist | [Project Name](https://github.com/...) |
 | **Forte Hacks by Flow 2025** | 🥉 **3rd Place (Best Existing Codebase Integration)** | [Project Name](https://github.com/...) |
-| **Moca Network Proof of Build (Wave 2 & 3)** | 🥇 **1st Place** | [Project Name](https://github.com/...) |
-| **ETHOnline 2025** | 🥇 **1st Place (BlockScout – Best Use of AutoScout)** | [Project Name](https://github.com/...) |
+| **AKINDO Moca Network Proof of Build (Wave 2 & 3)** | 🥇 **1st Place** | [Project Name](https://github.com/...) |
+| **ETHGlobal Online Hackathon 2025** | 🥇 **1st Place (BlockScout – Best Use of AutoScout)** | [Project Name](https://github.com/...) |
 | **Token2049 Hackathon Singapore 2025** | 🥇 **1st Place (Celo Track)**, 🏁 Top 5 Finalist | [Project Name](https://github.com/...) |
 | **ETHGlobal New Delhi Hackathon 2025** | 🥇 **1st Place (Flow Track)**, 🥇 **1st Place (Hedera – Best Overall Project)** | [Project Name](https://github.com/...) |
 | **ETHTokyo 2025** | 🥇 **1st Place (AI Track)**, 🏁 Finalist | [Project Name](https://github.com/...) |
 | **DevQuest 2025** | 🏆 **Champion (Overall Winner)** | [Project Name](https://github.com/...) |
 | **Devmatch 2025** | 🥇 **1st Place (Oasis – Best Use of Sapphire / ROFL)** | [Project Name](https://github.com/...) |
 | **ImagineHack 2025** | 🏆 **Champion (Overall Winner)** | [Project Name](https://github.com/...) |
-| **SuperteamMY Mega Hackathon** | 🏁 Top 10 Finalist | [Project Name](https://github.com/...) |
+| **SuperteamMY Mega Hackathon 2025** | 🏁 Top 10 Finalist | [Project Name](https://github.com/...) |
 | **BUIDL Asia Seoul Hackathon 2025** | 🏆 **Champion (Overall Winner)**, 🥇 **1st Place (Gensyn)**, 🥈 **2nd Place (Nethermind)** | [Project Name](https://github.com/...) |
 | **ETHGlobal Taipei Hackathon 2025** | 🥈 **2nd Place (1inch)**, 🏅 Winner (Celo Pool Prize) | [Project Name](https://github.com/...) |
 | **Consensus Hong Kong Hackathon 2025** | 🥉 **3rd Place (Aptos)** | [Project Name](https://github.com/...) |
-| **ETHGlobal Agentic Ethereum 2025** | 🥇 **1st Place (Flow – Best AI Agent for Consumers)** | [Project Name](https://github.com/...) |
+| **ETHGlobal Online Agentic Ethereum 2025** | 🥇 **1st Place (Flow – Best AI Agent for Consumers)** | [Project Name](https://github.com/...) |
 | **ETHKL Hackathon 2024** | 🏁 Finalist, 🥈 **2nd Place (ICP)**, 🏅 Winners (Pools) | [Project Name](https://github.com/...) |
 | **Devmatch 2024** | 🥈 **2nd Place (Maschain Government Services Track)** | [Project Name](https://github.com/...) |
 | **Alha Alfa Cosmetics Taylor's Competition** | 🥈 **2nd Place (AI Model)** | [Project Name](https://github.com/...) |
