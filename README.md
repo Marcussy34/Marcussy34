@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marcus Tan ([@Marcussy34](https://github.com/Marcussy34))
 
-### Full Stack Developer / AI Engineer / Web3 Enthusiast | BsC Computer Science (AI & Cyber)
+### Full Stack Developer / AI Engineer / Web3 Enthusiast | BsC Computer Science (AI & Cybersecurity)
 
 I like building AI applications and decentralized applications.
 
