@@ -51,6 +51,38 @@ I specialize in building AI applications and Decentralized Applications (dApps).
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ---
 
+## 🏆 Hackathon & Competition Achievements  
+
+| 📅 Event & Year | 🏆 Awards / Achievements | 🔗 Project Repository |
+|----------------|--------------------------|-----------------------|
+| **Cursor × Anthropic Hackathon 2025** | **Best Indie Hacker 🥇, Finalist 🏆** | — |
+| **Forte Hacks by Flow 2025** | **Best Existing Codebase Integration (3rd) 🥉** | — |
+| **Moca Network Proof of Build (Wave 2 & 3)** | **Champion 🥇** | — |
+| **ETHOnline 2025** | **BlockScout – Best Use of AutoScout (1st) 🥇** | — |
+| **Token2049 Hackathon Singapore 2025** | **Celo (1st) 🥇, Top 5 Finalist 🏆** | — |
+| **ETHGlobal New Delhi Hackathon 2025** | **Flow (1st) 🥇, Hedera – Best Overall Project (1st) 🥇** | — |
+| **ETHTokyo 2025** | **AI Track Champion 🥇, Finalist 🏆** | — |
+| **DevQuest 2025** | **Champion 🥇** | — |
+| **Devmatch 2025** | **Champion 🥇 (Oasis – Best Use of Sapphire / ROFL)** | — |
+| **ImagineHack 2025** | **Champion 🥇** | — |
+| **SuperteamMY Mega Hackathon** | **9th Place 🎯** | — |
+| **BUIDL Asia Seoul Hackathon 2025** | **Champion 🥇, Gensyn (1st) 🥇, Nethermind (2nd) 🥈, Near (Winner) 🏅** | — |
+| **ETHGlobal Taipei Hackathon 2025** | **1inch (2nd) 🥈, Celo (Pool) 🏅** | — |
+| **Consensus Hong Kong Hackathon 2025** | **Aptos (3rd) 🥉** | — |
+| **ETHGlobal Agentic Ethereum 2025** | **Flow – Best AI Agent for Consumers (1st) 🥇** | — |
+| **ETHKL Hackathon 2024** | **Finalist 🎯, ICP (2nd) 🥈, WorldCoin (Pool) 🏅, Scroll (Pool) 🏅, Ora (Pool) 🏅** | — |
+| **MasChain Government Services Track** | **1st Runner-Up 🥈** | — |
+| **Alpha Data Analytics Competition** | **1st Runner-Up 🥈** | — |
+| **Hilti IT Competition** | **Semi-Finalist 🎯** | — |
+
+---
+
+- 🥇 **10+ Champion / 1st Place Titles**
+- 🏆 **15+ Local & International Hackathons**
+- 🌍 Specialized in **AI Agents, Web3, Privacy-Preserving Systems, and Rapid MVPs**
+
+---
+
 ## 📊 Stats & Languages
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcussy34&theme=2077" width="45%" />
