@@ -2,7 +2,7 @@
 
 ### Full Stack Developer / AI Engineer / Web3 Enthusiast | BsC Computer Science (AI & Cybersecurity)
 
-I like building anything useful, particularly AI & decentralized applications(dApps) 😆
+I like building anything cool / useful, particularly AI & decentralized applications(dApps) 😆
 
 ---
 
