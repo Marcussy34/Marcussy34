@@ -10,6 +10,7 @@ I like building anything cool / useful, particularly AI & decentralized applicat
 
 | 📅 Event & Year | 🏅 Placement & Awards | 🔗 Project Repository |
 |----------------|----------------------|-----------------------|
+| **Solana Network State Spring 2026** | 🥈 **2nd Place** | [Predictefy](https:predictefy.com) |
 | **Cursor × Anthropic Hackathon 2025** | 🥇 **1st Place (Best Indie Hacker), 🏁 Finalist** | [Koyak Kombat](https://github.com/Marcussy34/koyak-kombat) |
 | **Forte Hacks by Flow 2025** | 🥉 **3rd Place (Best Existing Codebase Integration)** | [Dhal Way](https://github.com/derek2403/dhal-way) |
 | **AKINDO Moca Network Proof of Build (Wave 2 & 3)** | 🥇 **1st Place** | [Credo Protocol](https://github.com/Credo-Protocol/Credo-Protocol) |
