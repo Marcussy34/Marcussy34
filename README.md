@@ -4,6 +4,8 @@
 
 I like building anything cool / useful, particularly AI & decentralized applications(dApps) 😆
 
+Currently building Predictefy.com 
+
 ---
 
 ## 🏆 Hackathon & Competition Achievements  
