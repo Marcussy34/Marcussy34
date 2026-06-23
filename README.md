@@ -12,7 +12,7 @@ Currently building **Predictefy.com**
 
 | 📅 Event & Year | 🏅 Placement & Awards | 🔗 Project Repository |
 |----------------|----------------------|-----------------------|
-| **Solana KL Mini Hackathon** | 🥉 **3rd Place** | [SAFE](https://github.com/Marcussy34/safe) |
+| **Solana KL Mini Hackathon 2026** | 🥉 **3rd Place** | [SAFE](https://github.com/Marcussy34/safe) |
 | **Solana Network State Spring 2026** | 🥈 **2nd Place** | [Predictefy](https://www.predictefy.com) |
 | **Cursor × Anthropic Hackathon 2025** | 🥇 **1st Place (Best Indie Hacker), 🏁 Finalist** | [Koyak Kombat](https://github.com/Marcussy34/koyak-kombat) |
 | **Forte Hacks by Flow 2025** | 🥉 **3rd Place (Best Existing Codebase Integration)** | [Dhal Way](https://github.com/derek2403/dhal-way) |
