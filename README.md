@@ -4,7 +4,7 @@
 
 I like building anything cool / useful, particularly AI & decentralized applications(dApps) 😆
 
-Currently building **Predictefy.com**
+Currently building **[Predictefy.com](https://www.predictefy.com) **, a unified prediction market trading terminal.
 
 ---
 
