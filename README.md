@@ -32,7 +32,7 @@ Currently building **[Predictefy](https://www.predictefy.com)**, a unified predi
 | **ETHGlobal Online Agentic Ethereum 2025** | 🥇 **1st Place (Flow – Best AI Agent for Consumers)** | [4AI 1Human](https://github.com/derek2403/4AI-1Human) |
 | **ETHKL Hackathon 2024** | **🏁 Top 5 Finalist, 🥈 2nd Place (ICP), 🏅 Winner (ORA Prize)** | [JustETH](https://github.com/derek2403/AI-Food-Rating-App) |
 | **Devmatch 2024** | 🥈 **2nd Place (Maschain Government Services Track)** | [Fundify](https://github.com/Lim-921/DevMatch) |
-| **Alha Alfa Cosmetics Taylor's Competition** | 🥈 **2nd Place (AI Model)** | No Repo |
+| **Alha Alfa Cosmetics Taylor's Competition** | 🥈 **2nd Place (ML Prediction Model)** | No Repo |
 | **Hilti IT Competition 2024** | **🏁 Semi-Finalist** | No Repo |
 
 ---
