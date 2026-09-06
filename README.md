@@ -2,7 +2,7 @@
 
 ### Full Stack Developer / AI Engineer / Web3 Enthusiast | BsC Computer Science (AI & Cybersecurity)
 
-I like building anything cool / useful, particularly AI & decentralized applications(dApps) 😆
+I like building pretty much anything, but currently more towards AI & decentralized applications(dApps) 😆
 
 Currently building **[Predictefy](https://www.predictefy.com)**, a unified prediction market trading terminal.
 
