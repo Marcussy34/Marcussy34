@@ -8,7 +8,7 @@ Currently building **[Predictefy](https://www.predictefy.com)**, a unified predi
 
 ---
 
-## 🏆 Hackathon & Competition Achievements  
+## 🏆 Hackathon Achievements  
 
 | 📅 Event & Year | 🏅 Placement & Awards | 🔗 Project Repository |
 |----------------|----------------------|-----------------------|
