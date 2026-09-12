@@ -2,11 +2,11 @@
 
 ### Full Stack Developer / AI Engineer / Web3 Enthusiast | BsC Computer Science (AI & Cybersecurity)
 
-Currently taking break from hackathons to focus on building **[Predictefy](https://www.predictefy.com)**, a unified prediction market trading terminal.
+Currently slowing down on hackathons to focus on building Predictefy, a unified prediction market trading terminal.
 
 ---
 
-## 🏆 Hackathon Achievements  
+## 🏆 Hackathon Results
 
 | 📅 Event & Year | 🏅 Placement & Awards | 🔗 Project Repository |
 |----------------|----------------------|-----------------------|
