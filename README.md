@@ -10,7 +10,7 @@ Currently slowing down on hackathons to focus on building **[Predictefy](https:/
 
 | 📅 Event & Year | 🏅 Placement & Awards | 🔗 Project Repository |
 |----------------|----------------------|-----------------------|
-| **TOKEN2049 Origins Hackathon** | 🥈 **2nd Place (Cardano Agentic Commerce)**| [zx402](https://github.com/Marcussy34/zx402) |
+| **TOKEN2049 Origins Hackathon 2026** | 🥈 **2nd Place (Cardano Agentic Commerce)**| [zx402](https://github.com/Marcussy34/zx402) |
 | **MUBA Hackathon 2026** | 🥇 **1st Place (AI x SUI)**,  🥇 **1st Place (GonkaRouter - AI for Society)** | [OpenVerdict](https://github.com/Marcussy34/openverdict) |
 | **Solana KL Mini Hackathon 2026** | 🥉 **3rd Place** | [SAFE](https://github.com/Marcussy34/safe) |
 | **Solana Network State Spring 2026** | 🥈 **2nd Place** | [Predictefy](https://www.predictefy.com) |
@@ -18,7 +18,7 @@ Currently slowing down on hackathons to focus on building **[Predictefy](https:/
 | **Forte Hacks by Flow 2025** | 🥉 **3rd Place (Best Existing Codebase Integration)** | [Dhal Way](https://github.com/derek2403/dhal-way) |
 | **AKINDO Moca Network Proof of Build (Wave 2 & 3)** | 🥇 **1st Place** | [Credo Protocol](https://github.com/Credo-Protocol/Credo-Protocol) |
 | **ETHGlobal Online Hackathon 2025** | 🥇 **1st Place (BlockScout – Best Use of AutoScout)** | [Pet Pet](https://github.com/derek2403/pet-pet) |
-| **Token2049 Hackathon Singapore 2025** | 🥇 **1st Place (Celo Track), 🏁 Top 5 Finalist** | [LeftAI](https://github.com/derek2403/token2049) |
+| **TOKEN2049 Origins Hackathon 2025** | 🥇 **1st Place (Celo Track), 🏁 Top 5 Finalist** | [LeftAI](https://github.com/derek2403/token2049) |
 | **ETHGlobal New Delhi Hackathon 2025** | 🥇 **1st Place (Flow Track)**, 🥇 **1st Place (Hedera – Best Overall Project)** | [Dhal Way](https://github.com/derek2403/ethindia) |
 | **ETHTokyo 2025** | 🥇 **1st Place (AI Track), 🏁 Finalist** | [Toku Kaigan](https://github.com/derek2403/ethtokyo) |
 | **DevQuest 2025** | 🏆 **Champion (Overall Winner)** | Kwek Kwek (No Repo) |
