@@ -10,6 +10,7 @@ Currently slowing down on hackathons to focus on building **[Predictefy](https:/
 
 | 📅 Event & Year | 🏅 Placement & Awards | 🔗 Project Repository |
 |----------------|----------------------|-----------------------|
+| **Gigabyte x Nvidia DGX Spark Hackathon 2026** | 🥈 **2nd Place**| [Sentry](https://github.com/derek2403/sentry) |
 | **TOKEN2049 Origins Hackathon 2026** | 🥈 **2nd Place (Cardano Agentic Commerce)**| [zx402](https://github.com/Marcussy34/zx402) |
 | **MUBA Hackathon 2026** | 🥇 **1st Place (AI x SUI)**,  🥇 **1st Place (GonkaRouter - AI for Society)** | [OpenVerdict](https://github.com/Marcussy34/openverdict) |
 | **Solana KL Mini Hackathon 2026** | 🥉 **3rd Place** | [SAFE](https://github.com/Marcussy34/safe) |
