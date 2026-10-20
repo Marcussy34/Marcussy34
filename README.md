@@ -24,12 +24,12 @@ Working on full-stack development, trading infrastructure, market data aggregati
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marcussy34&theme=github_dark"
     width="49%"
-    alt="GitHub statistics"
+    alt="GitHub Statistics"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Marcussy34&theme=github_dark"
+    src="https://streak-stats.demolab.com?user=Marcussy34&theme=github-dark-blue&hide_border=true"
     width="49%"
-    alt="Most used languages in commits"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
@@ -40,7 +40,7 @@ Working on full-stack development, trading infrastructure, market data aggregati
     <img
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcussy34&theme=github_dark"
       width="98%"
-      alt="GitHub contribution activity"
+      alt="GitHub Contribution Activity"
     />
   </a>
 </p>
