@@ -33,20 +33,24 @@ Working on full-stack development, trading infrastructure, market data aggregati
   />
 </p>
 
-### Contribution Activity
+### Contribution Snake
 
 <p align="center">
-  <a href="https://github.com/Marcussy34">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcussy34&theme=github_dark"
-      width="98%"
-      alt="GitHub Contribution Activity"
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Marcussy34/Marcussy34/output/github-snake-dark.svg"
     />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Marcussy34?tab=overview">View my GitHub contributions →</a>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Marcussy34/Marcussy34/output/github-snake.svg"
+    />
+    <img
+      alt="Snake animation eating my GitHub contributions"
+      src="https://raw.githubusercontent.com/Marcussy34/Marcussy34/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
 </p>
 
 ---
@@ -135,3 +139,4 @@ Always happy to connect with people working on interesting engineering problems,
 - **GitHub:** [@Marcussy34](https://github.com/Marcussy34)
 - **LinkedIn:** [Marcus Tan](https://www.linkedin.com/in/marcus-tan-8846ba271/)
 - **Email:** [marcus.tanchiyau@gmail.com](mailto:marcus.tanchiyau@gmail.com)
+
