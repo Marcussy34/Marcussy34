@@ -5,7 +5,7 @@
 
 I enjoy building things, from experimental prototypes to production applications. Anything that solves a real problem.
 
-Slowing down on hackathons to focus on building an actual product. 
+Currently slowing down on hackathons to focus on building an actual product. 
 
 
 ## Currently Building
@@ -38,7 +38,7 @@ Building Everything.
 <p align="center">
   <picture>
     <source
-      media="(prefers-color-scheme: dark)"
+     media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/Marcussy34/Marcussy34/output/github-snake-dark.svg"
     />
     <source
