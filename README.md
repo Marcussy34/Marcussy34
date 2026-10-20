@@ -1,13 +1,14 @@
 
 # Hi, I'm Marcus 👋
 
+**Founding Engineer @[Predictefy](https://www.predictefy.com)**
+
 **Full-Stack Developer · AI Engineer · Web3 Developer**
 
 I enjoy building things, from experimental prototypes to production applications. Anything that solves a real problem.
 
 Previously spent a lot of time participating in hackathons, experimenting with emerging technologies, and building alongside other developers. These days, I'm spending more time building actual products, though I still enjoy the occasional hackathon.
 
----
 
 ## Currently Building
 
