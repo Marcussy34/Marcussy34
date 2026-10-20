@@ -5,7 +5,7 @@
 
 I enjoy building things, from experimental prototypes to production applications. Anything that solves a real problem.
 
-Previously spent a lot of time participating in hackathons, experimenting with emerging technologies, and building alongside other developers. These days, I'm spending more time building actual products, though I still enjoy the occasional hackathon.
+Slowing down on hackathons to focus on building an actual product. 
 
 
 ## Currently Building
@@ -14,7 +14,7 @@ Previously spent a lot of time participating in hackathons, experimenting with e
 
 A unified prediction market trading terminal and infrastructure platform that brings multiple prediction market venues into one place.
 
-Working on full-stack development, trading infrastructure, market data aggregation, and building systems that make prediction markets more accessible to traders and developers.
+Building Everything.
 
 ---
 
