@@ -108,6 +108,7 @@ Here's an archive of the projects that won, along with their repositories and re
 
 | Event | Result | Project |
 |-------|--------|---------|
+| uperteam MY x Superscrypt Build Global | 🥇 **1st Place** | [Predictefy](https://predictefy.com/) |
 | Gigabyte × NVIDIA DGX Spark Hackathon | 🥈 **2nd Place** | [Sentry](https://github.com/derek2403/sentry) |
 | TOKEN2049 Origins Hackathon | 🥈 **2nd Place** — Cardano Agentic Commerce | [zx402](https://github.com/Marcussy34/zx402) |
 | MUBA Hackathon | 🥇 **1st Place** — AI × Sui; 🥇 **1st Place** — GonkaRouter (AI for Society) | [OpenVerdict](https://github.com/Marcussy34/openverdict) |
