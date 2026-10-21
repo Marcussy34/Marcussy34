@@ -21,11 +21,12 @@ A unified prediction market trading terminal and infrastructure platform that br
 - **[Firecrawl](https://www.firecrawl.dev/)** — Firestarter (Ambassador)
 
 
-### Previous Experience
+### Previously
 
 - **[ELVTD.io](https://elvtd.io/)** — Web3 Full-Stack Developer, helped build [Foresight](https://foresight.now/)
 - **[MaiStorage](https://www.maistorage.com/)** — AI Engineer
 - **[ALPHV Technologies](https://alphv.com/)** — Tech Generalist Intern
+- **[Taylor's Blockchain Club](https://x.com/TaylorsBCC)** — DevRel 
 
 ### Education
 
