@@ -7,6 +7,7 @@ I enjoy building things, from experimental prototypes to production applications
 
 Currently slowing down on hackathons to focus on building an actual product. 
 
+Tinkering with running self-hosted LLM's. 
 
 ## Currently
 
