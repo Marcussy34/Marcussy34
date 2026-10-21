@@ -160,7 +160,7 @@ Here's an archive of the projects that won, along with their repositories and re
 
 Always happy to connect with people working on interesting engineering problems, AI systems, developer infrastructure, and emerging technologies.
 
-- **GitHub:** [@Marcussy34](https://github.com/Marcussy34)
-- **LinkedIn:** [Marcus Tan](https://www.linkedin.com/in/marcus-tan-8846ba271/)
+- **X:** [@marcustan1337](https://x.com/marcustan1337)
+- **LinkedIn:** [Marcus Tan](https://www.linkedin.com/in/marcustanchiyau/)
 - **Email:** [marcus.tanchiyau@gmail.com](mailto:marcus.tanchiyau@gmail.com)
 
