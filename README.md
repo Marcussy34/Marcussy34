@@ -99,9 +99,9 @@ Over the past few years, I've had the opportunity to work with different teams a
 Here's an archive of the projects that won, along with their repositories and results.
 
 <p align="center">
-  <strong>🏆 22 Hackathon Wins</strong>
+  <strong>🏆 23 Hackathon Wins</strong>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <strong>🏅 35 Awards</strong>
+  <strong>🏅 36 Awards</strong>
 </p>
 
 ### 2026
