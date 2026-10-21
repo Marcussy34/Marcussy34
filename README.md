@@ -5,7 +5,7 @@
 
 I enjoy building things, from experimental prototypes to production applications. Anything that solves a real problem.
 
-Currently slowing down on hackathons to focus on building an actual product, while also tinkering with running self-hosted models. 
+Currently slowing down on hackathons to focus on building an actual product, while also tinkering with running & optimizing self-hosted models. 
 
 ## Currently
 
