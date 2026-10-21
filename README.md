@@ -8,13 +8,26 @@ I enjoy building things, from experimental prototypes to production applications
 Currently slowing down on hackathons to focus on building an actual product. 
 
 
-## Currently Building
+## Currently
 
 ### [Predictefy](https://www.predictefy.com)
 
 A unified prediction market trading terminal and infrastructure platform that brings multiple prediction market venues into one place.
 
 Building Everything.
+
+
+- **[Superteam Malaysia](https://superteam.fun/)** — Member
+- **[Firecrawl](https://www.firecrawl.dev/)** — Firestarter (Ambassador)
+- 
+
+### Previous Experience
+
+- **Alphv Technologies** — Tech Generalist Intern
+- **MaiStorage** — AI Engineer
+- **[ELVTD.io](https://elvtd.io/)** — Web3 Full-Stack Developer, helped build [Foresight](https://foresight.now/)
+
+---
 
 ---
 
