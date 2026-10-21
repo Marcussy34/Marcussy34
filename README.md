@@ -10,7 +10,7 @@ Currently slowing down on hackathons to focus on building an actual product.
 
 ## Currently
 
-Janitor @ ### [Predictefy](https://www.predictefy.com) , building everything.
+Janitor @ [Predictefy](https://www.predictefy.com) , building everything.
 
 A unified prediction market trading terminal and infrastructure platform that brings multiple prediction market venues into one place.
 
