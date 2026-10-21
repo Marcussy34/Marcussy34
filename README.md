@@ -27,7 +27,11 @@ A unified prediction market trading terminal and infrastructure platform that br
 - **[MaiStorage](https://www.maistorage.com/)** — AI Engineer
 - **[ALPHV Technologies](https://alphv.com/)** — Tech Generalist Intern
 
----
+### Education
+
+**[Taylor's University](https://university.taylors.edu.my/)**  
+BSc (Hons) Computer Science — First Class Honours  
+Artificial Intelligence & Cybersecurity
 
 ---
 
