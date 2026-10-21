@@ -3,7 +3,7 @@
 
 **Full-Stack Developer · AI Engineer · Web3 Developer**
 
-I enjoy building things, from experimental prototypes to production applications. Anything that solves a real problem.
+I enjoy building and experimenting anything, prototypes to production apps. Anything that solves a real problem.
 
 Currently slowing down on hackathons to focus on building an actual product, while also tinkering with running & optimizing self-hosted models. 
 
