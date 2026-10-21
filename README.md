@@ -16,10 +16,11 @@ A unified prediction market trading terminal and infrastructure platform that br
 
 Building Everything.
 
+### Community
 
 - **[Superteam Malaysia](https://superteam.fun/)** — Member
 - **[Firecrawl](https://www.firecrawl.dev/)** — Firestarter (Ambassador)
-- 
+
 
 ### Previous Experience
 
