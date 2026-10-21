@@ -24,9 +24,9 @@ Building Everything.
 
 ### Previous Experience
 
-- **Alphv Technologies** — Tech Generalist Intern
-- **MaiStorage** — AI Engineer
 - **[ELVTD.io](https://elvtd.io/)** — Web3 Full-Stack Developer, helped build [Foresight](https://foresight.now/)
+- **[MaiStorage](https://www.maistorage.com/)** — AI Engineer
+- **[ALPHV Technologies](https://alphv.com/)** — Tech Generalist Intern
 
 ---
 
