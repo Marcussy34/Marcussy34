@@ -13,7 +13,7 @@ Janitor @ [Predictefy](https://www.predictefy.com) , building everything.
 
 A unified prediction market trading terminal and infrastructure platform that brings multiple prediction market venues into one place.
 
--
+-----------------------
 
 Contributing & Developing [zx402](https://zx402.org/) in the mean time 
 
